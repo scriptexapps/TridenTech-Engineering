@@ -1,2 +1,3 @@
-# TridenTech-Engineering
-A static web page for TridenTech engineering
+# TridenTech
+
+An introductory website for Trdentech engineering.
