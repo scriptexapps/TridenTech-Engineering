@@ -1230,12 +1230,30 @@ section {
     padding: 60px 0;
 }
 
+.center {
+    display: flex;
+    justify-content: center; /* align horizontal */
+    align-items: center;
+}
+.teams-background {
+    background-size: cover;
+    background-image: url(../img/misc/6.png);
+}
+
+.teams-background img {
+    float: right;
+    height: 100%;
+    width: 100%;
+}
+
 .team p:nth-child(1) {
     text-align: center;
     line-height: 48px;
     font-style: italic;
-    font-size: medium;
+    font-size: 20px;
     font-weight: 600;
+    height: 100%;
+    color: white;
 }
 
 .team .member {
